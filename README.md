@@ -1,7 +1,7 @@
 # small_projects
-These are a few small scripts
+Here are a few small scripts.
 
-These are just a few scripts, if you can do something with them I'm happy :D
+If they are helpful for you I am happy :D
 
 Instructions:
-1. Download and run
+1.	Download and run
